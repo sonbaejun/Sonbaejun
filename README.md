@@ -2,7 +2,7 @@
 
 <br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thsqowns2)](https://solved.ac/thsqowns2/)
+[![Solved.ac Profile][(https://solved.ac/thsqowns2/)](https://solved.ac/profile/thsqowns2)
 
 <br>
 
