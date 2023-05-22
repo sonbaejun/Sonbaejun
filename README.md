@@ -10,10 +10,8 @@
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonbaejun&layout=demo&theme=demo) -->
 
-![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-6DB33F?style=for-the-badge&logo=JavaScript&logoColor=white)
-
+![Vue](https://img.shields.io/badge/Vue-6DB33F?style=for-the-badge&logo=JavaScript&logoColor=white)
 
 
 <!--
