@@ -16,14 +16,12 @@
 ![Vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
 ### 📙 Blog
-    ~ 2022.11
     <a href="https://baejun.tistory.com/">
         <img alt="tistory" src="https://img.shields.io/badge/tistory-000000.svg?logo=tistory&logoColor=white"/>
     </a><br/>
-    2022.11 ~
     <a href="https://velog.io/@sonbaejun">
         <img alt="velog" src="https://img.shields.io/badge/velog-20C997.svg?logo=velog&logoColor=white"/>
-    </a
+    </a><br/>
   
 <!--
 ### 📫 Contacts
