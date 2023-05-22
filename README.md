@@ -17,7 +17,7 @@
 
 ### 📙 Blog
     ~ 2022.11
-    <a href="https://baejun.tistory.com">
+    <a href="https://baejun.tistory.com/">
         <img alt="tistory" src="https://img.shields.io/badge/tistory-000000.svg?logo=tistory&logoColor=white"/>
     </a><br/>
     2022.11 ~
