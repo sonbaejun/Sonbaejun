@@ -11,7 +11,7 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonbaejun&layout=demo&theme=demo) -->
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-6DB33F?style=for-the-badge&logo=JavaScript&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-6DB33F?style=for-the-badge&logo=JavaScript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
 
 <!--
