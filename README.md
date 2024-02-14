@@ -5,6 +5,10 @@
 
 <br>
 
+### 🧻 Solved.ac
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thsqowns2)](https://solved.ac/thsqowns2/)
+
 ### 🛠 Skills
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonbaejun&layout=demo&theme=demo) -->
